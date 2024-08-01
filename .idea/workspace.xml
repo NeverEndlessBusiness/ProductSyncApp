@@ -1,11 +1,50 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="2b3e89be-cb64-45ee-834e-80dacb224031" name="Changes" comment="" />
+    <list default="true" id="2b3e89be-cb64-45ee-834e-80dacb224031" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ProductSyncApp.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/comarch_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/email_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/error_handling.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/selly_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Backend/sync.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Config/Config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/database.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Database/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deployment/install_dependencies.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Deployment/setup_windows_service.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/main_window.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/GUI/scheduler_ui.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Logs/logs.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/icons.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Resources/templates.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Scripts/build.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_comarch_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_selly_service.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Tests/test_sync.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -17,6 +56,12 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master"
+  }
+}]]></component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
